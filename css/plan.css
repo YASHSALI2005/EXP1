@@ -1,0 +1,139 @@
+/* body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: #f8f8f8;
+}
+
+.property-listing {
+    width: 70%;
+    margin: 0 auto;
+}
+
+.property-listing h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.property-item {
+    display: flex;
+    justify-content: space-between;
+    background-color: #fff;
+    margin-bottom: 20px;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.property-image {
+    width: 30%;
+    position: relative;
+}
+
+.property-image img {
+    width: 100%;
+    border-radius: 4px;
+}
+
+.image-gallery {
+    display: flex;
+    margin-top: 10px;
+}
+
+.image-gallery img {
+    width: 40px;
+    height: 40px;
+    margin-right: 5px;
+    border-radius: 4px;
+}
+
+.image-gallery a {
+    margin-left: 5px;
+    text-decoration: none;
+    font-size: 12px;
+    color: #007bff;
+    align-self: center;
+}
+
+.property-details {
+    width: 45%;
+}
+
+.property-details h3 {
+    font-size: 18px;
+    margin-bottom: 5px;
+}
+
+.property-details .location {
+    font-size: 14px;
+    color: #007bff;
+    margin-bottom: 10px;
+}
+
+.property-details .tags span {
+    background-color: #f3f3f3;
+    padding: 2px 8px;
+    border-radius: 4px;
+    font-size: 12px;
+    margin-right: 5px;
+}
+
+.property-details .cancellation,
+.property-details .service,
+.property-details .offer {
+    font-size: 14px;
+    margin-bottom: 5px;
+}
+
+.property-price {
+    width: 20%;
+    text-align: right;
+}
+
+.property-price .rating {
+    font-size: 14px;
+    margin-bottom: 5px;
+}
+
+.property-price .rating .rating-value {
+    font-weight: bold;
+    font-size: 18px;
+    color: #4CAF50;
+}
+
+.property-price .deal-tag {
+    font-size: 12px;
+    background-color: #f3f3f3;
+    padding: 2px 8px;
+    border-radius: 4px;
+    margin-bottom: 10px;
+}
+
+.property-price .price {
+    font-size: 22px;
+    color: #333;
+    margin-bottom: 5px;
+}
+
+.property-price .original-price {
+    text-decoration: line-through;
+    font-size: 14px;
+    color: #999;
+    margin-right: 5px;
+}
+
+.property-price .taxes {
+    font-size: 12px;
+    color: #999;
+    margin-bottom: 10px;
+}
+
+.property-price .booking-link {
+    display: inline-block;
+    font-size: 12px;
+    text-decoration: none;
+    color: #007bff;
+    padding: 5px 10px;
+    border: 1px solid #007bff;
+    border-radius: 4px;
+} */

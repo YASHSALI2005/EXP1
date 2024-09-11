@@ -1,0 +1,22 @@
+{
+  "name": "travel-website-main",
+  "version": "1.0.0",
+  "description": "Travel and Exploring Website",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "dev":"nodemon js/app.js -e js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mongodb": "^6.8.1",
+    "moongose": "^1.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
